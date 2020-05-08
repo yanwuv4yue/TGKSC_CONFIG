@@ -1,1 +1,2 @@
-ent: test
+server:
+  port: 18002
