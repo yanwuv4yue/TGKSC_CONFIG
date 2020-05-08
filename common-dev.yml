@@ -1,2 +1,2 @@
-ent: dev
-number: 1
+server:
+  port: 18001
